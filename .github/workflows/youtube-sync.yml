@@ -1,0 +1,76 @@
+# ════════════════════════════════════════════════════════════════
+# GitHub Actions — YouTube Auto-Sync for noor-database
+#
+# Runs every 3 hours to fetch new YouTube videos from the channels
+# listed in radio_database/youtube_channels.json, merge them with
+# existing content (NO data loss), auto-archive old items, and
+# commit the changes back to the repo.
+#
+# No setup needed! GITHUB_TOKEN is provided automatically by GitHub.
+# Just add your channels to radio_database/youtube_channels.json
+# and the workflow will start syncing them.
+# ════════════════════════════════════════════════════════════════
+
+name: Sync YouTube Videos
+
+on:
+  schedule:
+    # Every 3 hours: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC
+    - cron: '0 */3 * * *'
+  workflow_dispatch:  # Allow manual runs from the Actions tab
+  push:
+    branches: [ main ]
+    paths:
+      - 'tools/youtube_sync_dart/**'
+      - 'radio_database/youtube_channels.json'
+      - '.github/workflows/youtube-sync.yml'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for pushing commits back to the repo
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Dart
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      # ══════════════════════════════════════════════════════════
+      # Sync YouTube RSS + youtube_explode_dart metadata
+      # → 3 files per channel (live/videos/shorts)
+      # → MERGE with existing content (no data loss)
+      # → AUTO-ARCHIVE when a section exceeds 5000 items
+      # → Auto-update index.json
+      # ══════════════════════════════════════════════════════════
+      - name: Sync YouTube channels
+        run: |
+          # Simple lock to prevent overlap with concurrent runs
+          if [ -f .sync.lock ]; then
+            echo "Another sync in progress, exiting"
+            exit 0
+          fi
+          touch .sync.lock
+          trap 'rm -f .sync.lock' EXIT
+
+          cd tools/youtube_sync_dart
+          dart pub get
+          dart run bin/sync_youtube.dart --folder ../../radio_database
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add radio_database/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            echo "=== Changes to be committed ==="
+            git diff --staged --stat
+            git commit -m "chore: auto-sync YouTube channels ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+            echo "✓ Pushed changes to main."
+          fi
