@@ -1,0 +1,32 @@
+{
+  "id": "monazarat",
+  "title": "جديد مناظرات",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد مناظرات على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد مناظرات",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "مناظرة طاحنة 🔥 زين خير الله في مواجهة مباشرة أمام الشيعي أثر الله!",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=h3FtjzKdmzg",
+          "imageUrl": "https://i.ytimg.com/vi/h3FtjzKdmzg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=h3FtjzKdmzg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

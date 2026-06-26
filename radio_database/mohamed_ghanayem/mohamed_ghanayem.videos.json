@@ -1,0 +1,172 @@
+{
+  "id": "mohamed_ghanayem",
+  "title": "جديد محمد غنايم",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد محمد غنايم على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد محمد غنايم",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "ما وراء كواليس كأس العالم",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mDJbzKIZSnw",
+          "imageUrl": "https://i.ytimg.com/vi/mDJbzKIZSnw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mDJbzKIZSnw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس دجاج الطيبات",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ElX5rIkDw2I",
+          "imageUrl": "https://i.ytimg.com/vi/ElX5rIkDw2I/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ElX5rIkDw2I",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا تشعر بالملل جدا",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=aRr35Ssr7Lo",
+          "imageUrl": "https://i.ytimg.com/vi/aRr35Ssr7Lo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=aRr35Ssr7Lo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس نظام الطيبات",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=GngANzznS5k",
+          "imageUrl": "https://i.ytimg.com/vi/GngANzznS5k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=GngANzznS5k",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس التمرد على الدين",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qIUa_JK71aU",
+          "imageUrl": "https://i.ytimg.com/vi/qIUa_JK71aU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qIUa_JK71aU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس حرب المتصدرين",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=p8iQWSp-Luc",
+          "imageUrl": "https://i.ytimg.com/vi/p8iQWSp-Luc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=p8iQWSp-Luc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس عقيدة إجبار الرب",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zvDRfCZRAGY",
+          "imageUrl": "https://i.ytimg.com/vi/zvDRfCZRAGY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zvDRfCZRAGY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هل ظهر الدجال فعلا؟ | قصة حياتك",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Wn3lILksqgA",
+          "imageUrl": "https://i.ytimg.com/vi/Wn3lILksqgA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Wn3lILksqgA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا لا يوجد تفسير مادي للروح ؟",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cBwtkYVvUZg",
+          "imageUrl": "https://i.ytimg.com/vi/cBwtkYVvUZg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cBwtkYVvUZg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ماذا تفعل مشروبات الطاقة للجسم..",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HolocdqtTw4",
+          "imageUrl": "https://i.ytimg.com/vi/HolocdqtTw4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HolocdqtTw4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سحــر آخر الزمان .. بالقـرآن!!",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zoAwt7hc5Gk",
+          "imageUrl": "https://i.ytimg.com/vi/zoAwt7hc5Gk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zoAwt7hc5Gk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس عمدة نيويورك",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=i-6XXu57UlU",
+          "imageUrl": "https://i.ytimg.com/vi/i-6XXu57UlU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=i-6XXu57UlU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كـيـف تهكر دماغـك لتحصل على العلامـة الكاملة في الاختبارات؟ (طريقة مجربة)",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=en6pf3DOlHM",
+          "imageUrl": "https://i.ytimg.com/vi/en6pf3DOlHM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=en6pf3DOlHM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس (أفلام الكرتون)",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=aQ4vp2tPxuk",
+          "imageUrl": "https://i.ytimg.com/vi/aQ4vp2tPxuk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=aQ4vp2tPxuk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما وراء كواليس تحريف القران",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qFUtEGZKbYA",
+          "imageUrl": "https://i.ytimg.com/vi/qFUtEGZKbYA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qFUtEGZKbYA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

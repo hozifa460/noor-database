@@ -1,0 +1,112 @@
+{
+  "id": "monazarat",
+  "title": "جديد مناظرات",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد مناظرات على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد مناظرات",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "عمار الشويلي دخل المناظرة بثقة.. لكن ما فعله وليد إسماعيل كان صادمًا!",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=thtzFPiwFVo",
+          "imageUrl": "https://i.ytimg.com/vi/thtzFPiwFVo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=thtzFPiwFVo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناظرة مشتعلة حول أبي بكر الصديق | زين خير الله في مواجهة نارية مع مجتبى الزركوشي!",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BU_Df_wdiJw",
+          "imageUrl": "https://i.ytimg.com/vi/BU_Df_wdiJw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BU_Df_wdiJw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناظرة نارية بين السنة والشيعة🔥 بين الشيخ خالد الوصابي وعلاء المهدوي وأحمد الإمامي",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=0HHqXb1gquA",
+          "imageUrl": "https://i.ytimg.com/vi/0HHqXb1gquA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0HHqXb1gquA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناظرة مشتعلة بين السنة والشيعة | علي الأزهري × أمير قريشي",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=fj3XWMeGvUY",
+          "imageUrl": "https://i.ytimg.com/vi/fj3XWMeGvUY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fj3XWMeGvUY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "المناظرة الأكثر جدلًا.. وليد إسماعيل في مواجهة نارية مع وعد اللامي",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=U7qVkOPHdsk",
+          "imageUrl": "https://i.ytimg.com/vi/U7qVkOPHdsk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=U7qVkOPHdsk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناظرة نارية 🔥 الشيخ الأزهري يُحرج أحمد حرقان بردود صادمة",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=N2lGi8aryeA",
+          "imageUrl": "https://i.ytimg.com/vi/N2lGi8aryeA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=N2lGi8aryeA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناظرة نارية بين السنة والشيعة !🔥 وليد إسماعيل في مواجهة مجتبى الزركوشي",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=51dwRP3oIa4",
+          "imageUrl": "https://i.ytimg.com/vi/51dwRP3oIa4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=51dwRP3oIa4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أقوى مناظرة بين السنة والشيعة 🔥 عدنان العرعور في مواجهة نارية مع عبدالعال سليمة",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=smIy6_ZxeHs",
+          "imageUrl": "https://i.ytimg.com/vi/smIy6_ZxeHs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=smIy6_ZxeHs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "المناظرة الأقوى بين الإسلام والمسيحية: زين خير الله في تحدي ناري أمام زكريا بطرس",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CDu1dayMSFo",
+          "imageUrl": "https://i.ytimg.com/vi/CDu1dayMSFo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CDu1dayMSFo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

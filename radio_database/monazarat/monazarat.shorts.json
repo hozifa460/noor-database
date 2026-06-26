@@ -1,0 +1,72 @@
+{
+  "id": "monazarat",
+  "title": "جديد مناظرات",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد مناظرات على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد مناظرات",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "أراد الطعن في أبي بكر أمام زين خير الله.. فانقلبت المناظرة عليه! #shorts",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=D1bH6fHApII",
+          "imageUrl": "https://i.ytimg.com/vi/D1bH6fHApII/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=D1bH6fHApII",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هيثم طلعت يدمر الملحد شريف جابر #shorts",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=5WYsz4BLClI",
+          "imageUrl": "https://i.ytimg.com/vi/5WYsz4BLClI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5WYsz4BLClI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أمير القريشي في ورطة #shorts",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=abpPeeUMLk8",
+          "imageUrl": "https://i.ytimg.com/vi/abpPeeUMLk8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=abpPeeUMLk8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ العرعور يفحم شيعيًا بسؤال واحد فقط! #shorts",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=27jGDIibcJ8",
+          "imageUrl": "https://i.ytimg.com/vi/27jGDIibcJ8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=27jGDIibcJ8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "وليد إسماعيل يدمر ذو الفقار على الهواء #shorts",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ac3XoR-Dm_c",
+          "imageUrl": "https://i.ytimg.com/vi/ac3XoR-Dm_c/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ac3XoR-Dm_c",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

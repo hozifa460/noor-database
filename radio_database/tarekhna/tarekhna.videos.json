@@ -1,0 +1,82 @@
+{
+  "id": "tarekhna",
+  "title": "جديد تاريخنا",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد تاريخنا على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد تاريخنا",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "هل الاقتصاد علم | قصة المال | الحلقة 3",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wNRP1mL1Ctk",
+          "imageUrl": "https://i.ytimg.com/vi/wNRP1mL1Ctk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wNRP1mL1Ctk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من هي المرأة التي خرج من بيتها فقهاء المذاهب الأربعة؟ | الوفاء يأسماء النساء | الحلقة 15",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=6gqXxNo1WFc",
+          "imageUrl": "https://i.ytimg.com/vi/6gqXxNo1WFc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=6gqXxNo1WFc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من هو الرجل الأعظم.. الذي أخرج الناس من الظلمات إلى النور",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=aaRTyNSukRE",
+          "imageUrl": "https://i.ytimg.com/vi/aaRTyNSukRE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=aaRTyNSukRE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "شهوة الربح وسحق الانسان الوجه الخفي للرأسمالية والاشتراكية | الحلقة 2",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_vd4Tzh474k",
+          "imageUrl": "https://i.ytimg.com/vi/_vd4Tzh474k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_vd4Tzh474k",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف انتقلت الثروة من الشرق إلى الغرب؟ | قصة المال| الحلقة 1",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KmUZvh1JwN0",
+          "imageUrl": "https://i.ytimg.com/vi/KmUZvh1JwN0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KmUZvh1JwN0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "إنها أم عطية الأنصارية... سيرة تسمع لا تقرأ فقط .الوفاء بأسماء النساء | الحلقة 14",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=F5Eh_fKTFNw",
+          "imageUrl": "https://i.ytimg.com/vi/F5Eh_fKTFNw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=F5Eh_fKTFNw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

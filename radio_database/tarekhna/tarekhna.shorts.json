@@ -1,0 +1,112 @@
+{
+  "id": "tarekhna",
+  "title": "جديد تاريخنا",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد تاريخنا على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد تاريخنا",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "لماذا ترك الوكيل الدكتوراه وذهب للعمل مع حسن فتحي؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=TxGcFUszvyE",
+          "imageUrl": "https://i.ytimg.com/vi/TxGcFUszvyE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=TxGcFUszvyE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف استطاع رجلٌ خرج من الصحراء أن يغيّر مجرى التاريخ، ويؤسس حضارة امتد أثرها إلى أنحاء العالم؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=7_wJSGtfOKU",
+          "imageUrl": "https://i.ytimg.com/vi/7_wJSGtfOKU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7_wJSGtfOKU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا استنجدت مالي بالبرتغاليين؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JQYYG58lh5Q",
+          "imageUrl": "https://i.ytimg.com/vi/JQYYG58lh5Q/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JQYYG58lh5Q",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف أخذ (الروبوت) رزق الناس؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BBIEUCmWEF4",
+          "imageUrl": "https://i.ytimg.com/vi/BBIEUCmWEF4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BBIEUCmWEF4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الرِدّة وعمل قوم لـ،ـوط لم يعد لهما عقوبة .. هكذا تجاوزت الدولة العثمانية الشريعة..",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=4rjv_fDxiY8",
+          "imageUrl": "https://i.ytimg.com/vi/4rjv_fDxiY8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=4rjv_fDxiY8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لم تكن عبقرية إسحاق نيوتن في الفيزياء والرياضيات كافية لحمايته من تقلبات السوق.",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=VrcPQDnQ4jY",
+          "imageUrl": "https://i.ytimg.com/vi/VrcPQDnQ4jY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=VrcPQDnQ4jY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف يقيم الوكيل لعبة كرة القدم؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=VR-MTG9WJJk",
+          "imageUrl": "https://i.ytimg.com/vi/VR-MTG9WJJk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=VR-MTG9WJJk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "متى انتصر عالمنا العربي على العدو؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=1PP1iIhrAe0",
+          "imageUrl": "https://i.ytimg.com/vi/1PP1iIhrAe0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1PP1iIhrAe0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أقنع 5 ملوك بالإسلام، وهم ليسوا ملوكاً عاديين بل هم آلهة في الفهم الوثني!",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PIQhgD6O70s",
+          "imageUrl": "https://i.ytimg.com/vi/PIQhgD6O70s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PIQhgD6O70s",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "DR_Zaker_Naik",
+  "title": "جديد دكتور ذاكر نايك",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد دكتور ذاكر نايك على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد دكتور ذاكر نايك",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "Jesus (pbuh) was not Sent to the Non-Jews - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-dq3B06GpBU",
+          "imageUrl": "https://i.ytimg.com/vi/-dq3B06GpBU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-dq3B06GpBU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "The Media Picks Up the Black Sheep of Muslims and Portrays Them as Exemplary Muslims - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cR4kPoS91iE",
+          "imageUrl": "https://i.ytimg.com/vi/cR4kPoS91iE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cR4kPoS91iE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Jesus (pbuh) is Prophesying about the Coming of the Prophet Muhammad (pbuh) - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HyCP4e2b-Fk",
+          "imageUrl": "https://i.ytimg.com/vi/HyCP4e2b-Fk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HyCP4e2b-Fk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "How the Media Maligns Islam - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=xJgMp3E5znA",
+          "imageUrl": "https://i.ytimg.com/vi/xJgMp3E5znA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=xJgMp3E5znA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "In the Quran, Jesus (pbuh) Gives Glad Tidings of a Messenger to Come, Named Ahmad - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=bEYiYAsqtjw",
+          "imageUrl": "https://i.ytimg.com/vi/bEYiYAsqtjw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=bEYiYAsqtjw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "The Media’s Prejudice against Muslims - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yXBu5lnIvts",
+          "imageUrl": "https://i.ytimg.com/vi/yXBu5lnIvts/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yXBu5lnIvts",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Being Mentioned more does Make a Person Superior - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Z_FrFmO3ffY",
+          "imageUrl": "https://i.ytimg.com/vi/Z_FrFmO3ffY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Z_FrFmO3ffY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "If Islam is Good, Why do we Find Muslims Doing Evil? - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SnKQMBAKaks",
+          "imageUrl": "https://i.ytimg.com/vi/SnKQMBAKaks/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SnKQMBAKaks",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Why Is Jesus’ (pbuh) Name Mentioned more than Muhammad’s (pbuh) - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=h91DjBHs9IE",
+          "imageUrl": "https://i.ytimg.com/vi/h91DjBHs9IE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=h91DjBHs9IE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

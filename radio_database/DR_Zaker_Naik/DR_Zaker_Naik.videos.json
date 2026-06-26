@@ -1,0 +1,82 @@
+{
+  "id": "DR_Zaker_Naik",
+  "title": "جديد دكتور ذاكر نايك",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد دكتور ذاكر نايك على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد دكتور ذاكر نايك",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 120 | Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JmB-pjMQ024",
+          "imageUrl": "https://i.ytimg.com/vi/JmB-pjMQ024/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JmB-pjMQ024",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "One to One Dawah vs Group Dawah - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=x0qKmR8sgv4",
+          "imageUrl": "https://i.ytimg.com/vi/x0qKmR8sgv4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=x0qKmR8sgv4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 119 | Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mtezNWHQ5Tk",
+          "imageUrl": "https://i.ytimg.com/vi/mtezNWHQ5Tk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mtezNWHQ5Tk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "A Da'ee Should Do More Good Deeds but Keep Away from Riyaa' - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=hZLlo8ouzjo",
+          "imageUrl": "https://i.ytimg.com/vi/hZLlo8ouzjo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=hZLlo8ouzjo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 118 | Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=lSOJzqE_9oU",
+          "imageUrl": "https://i.ytimg.com/vi/lSOJzqE_9oU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=lSOJzqE_9oU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "How to Enter Paradise in the Eyes of Islam – Talk by Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=XNojvAddjL8",
+          "imageUrl": "https://i.ytimg.com/vi/XNojvAddjL8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=XNojvAddjL8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
