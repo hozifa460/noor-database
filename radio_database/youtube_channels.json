@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "categoryId": "example_channel",
+      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxxxx",
+      "channelName": "اسم القناة هنا"
+    }
+  ]
+}
