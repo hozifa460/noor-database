@@ -1,0 +1,52 @@
+{
+  "id": "ypusef_joe",
+  "title": "جديد يوسف جو",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد يوسف جو على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد يوسف جو",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "فخر الصناعة النسوية",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cc0yCCU0JbU",
+          "imageUrl": "https://i.ytimg.com/vi/cc0yCCU0JbU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cc0yCCU0JbU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "يرعبهم كونك ملحد مثقف",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=eJy3WhnHA4s",
+          "imageUrl": "https://i.ytimg.com/vi/eJy3WhnHA4s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eJy3WhnHA4s",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خدعوك فقالو الحجاب فرض.! ",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cnjq7I7yMoY",
+          "imageUrl": "https://i.ytimg.com/vi/cnjq7I7yMoY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cnjq7I7yMoY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

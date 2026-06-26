@@ -1,0 +1,62 @@
+{
+  "id": "sherif_ali",
+  "title": "جديد الشيخ شريف على",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ شريف على على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد الشيخ شريف على",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "يوم عرفة بُيهيء قلبك لمعنى \"أنا عَبد\"",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=RzO1L_9fJdQ",
+          "imageUrl": "https://i.ytimg.com/vi/RzO1L_9fJdQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=RzO1L_9fJdQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لازم نعظَّم هذه الأيام..",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=OP3dLyGGXes",
+          "imageUrl": "https://i.ytimg.com/vi/OP3dLyGGXes/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=OP3dLyGGXes",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "عِبادتك في الوقت ده أعظم وأحب عند الله..",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=POVLhEAYpQU",
+          "imageUrl": "https://i.ytimg.com/vi/POVLhEAYpQU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=POVLhEAYpQU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتعود ماتتأخرش في قراراتك في العمل للدين..!",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KZcWrK629H0",
+          "imageUrl": "https://i.ytimg.com/vi/KZcWrK629H0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KZcWrK629H0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

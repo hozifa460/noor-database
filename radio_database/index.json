@@ -1,5 +1,19 @@
 {
   "files": [
-    "Dawah_youtubers/Dawah_youtubers.videos.json"
+    "Dawah_youtubers/Dawah_youtubers.videos.json",
+    "abdallah_roshdi/abdallah_roshdi.shorts.json",
+    "abdallah_roshdi/abdallah_roshdi.videos.json",
+    "albahbhany/albahbhany.live.json",
+    "albahbhany/albahbhany.shorts.json",
+    "albahbhany/albahbhany.videos.json",
+    "anas_action/anas_action.shorts.json",
+    "anas_action/anas_action.videos.json",
+    "kan_zahoka/kan_zahoka.shorts.json",
+    "kan_zahoka/kan_zahoka.videos.json",
+    "sherif_ali/sherif_ali.shorts.json",
+    "sherif_ali/sherif_ali.videos.json",
+    "ypusef_joe/ypusef_joe.live.json",
+    "ypusef_joe/ypusef_joe.shorts.json",
+    "ypusef_joe/ypusef_joe.videos.json"
   ]
 }

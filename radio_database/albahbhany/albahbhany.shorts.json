@@ -1,0 +1,32 @@
+{
+  "id": "albahbhany",
+  "title": "جديد البحبحاني",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد البحبحاني على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد البحبحاني",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "متى سأكون ملحداً؟",
+          "subtitle": "جديد البحبحاني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2JjgwcnenvM",
+          "imageUrl": "https://i.ytimg.com/vi/2JjgwcnenvM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2JjgwcnenvM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

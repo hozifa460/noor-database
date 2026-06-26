@@ -1,0 +1,152 @@
+{
+  "id": "kan_zahoka",
+  "title": "جديد قناة كان زهوقا",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد قناة كان زهوقا على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد قناة كان زهوقا",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "نسمة الخطيب والدعارة: تاريخ الصراع النسوي على الدعارة والإباحية (مصر أنموذجا)",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_79ss0St6_g",
+          "imageUrl": "https://i.ytimg.com/vi/_79ss0St6_g/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_79ss0St6_g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أنا اخترت، إذن أنا حرة! - فاعلية الجسد بين غدير أحمد والنسوية (3)",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_aSwyf_u0Tw",
+          "imageUrl": "https://i.ytimg.com/vi/_aSwyf_u0Tw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_aSwyf_u0Tw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Feminism and Theology #1 | The Gender Dilemma in Christian Doctrine",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_Y_mJ3vxhls",
+          "imageUrl": "https://i.ytimg.com/vi/_Y_mJ3vxhls/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_Y_mJ3vxhls",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "المطبخ النسوي (2): الأسلحة النسوية في مواجهة النسوية",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=349tGd87o9g",
+          "imageUrl": "https://i.ytimg.com/vi/349tGd87o9g/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=349tGd87o9g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روحي على المطبخ؟ - العمل النسوي من الداخل",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=hBh_76EtytM",
+          "imageUrl": "https://i.ytimg.com/vi/hBh_76EtytM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=hBh_76EtytM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "غدير أحمد (مجرمة الإجهاض): الفرق بين المنظمات النسوية العامة والمستقلة",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=j8BkRDkuzfY",
+          "imageUrl": "https://i.ytimg.com/vi/j8BkRDkuzfY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=j8BkRDkuzfY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ماذا لنساء الدنيا في الجنة؟",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HyhvdZYXmSg",
+          "imageUrl": "https://i.ytimg.com/vi/HyhvdZYXmSg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HyhvdZYXmSg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "جاهلة النساء (نضال أدهم) تتجاوز في حق النبي (صلى الله عليه وآله وسلم)",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9VtHPVLPWQY",
+          "imageUrl": "https://i.ytimg.com/vi/9VtHPVLPWQY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9VtHPVLPWQY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الإجهاض: دوري السيرك النسوي (عزة، غدير، ءاية، بهية، ناريهان، إيمان، نضال...)",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BxmwCmVh0AA",
+          "imageUrl": "https://i.ytimg.com/vi/BxmwCmVh0AA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BxmwCmVh0AA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "النسوية وإبستين وفقهاء المسلمين – (سمينة وتطيق الوطء؟)",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qRxUdAUrjFE",
+          "imageUrl": "https://i.ytimg.com/vi/qRxUdAUrjFE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qRxUdAUrjFE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "غزل النسوية (4): أصل المساواة والعدل (العدل بين الأنظمة المختلفة والنظام الإسلامي) -ج2",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=sMgoOyHCCo8",
+          "imageUrl": "https://i.ytimg.com/vi/sMgoOyHCCo8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sMgoOyHCCo8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "غزل النسوية (3): أصل المساواة والعدل (الفوارق بين الجنسين ومبحث الفطرة والغريزة) -ج1",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZODuiaCEH9o",
+          "imageUrl": "https://i.ytimg.com/vi/ZODuiaCEH9o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZODuiaCEH9o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "جاهلة النساء (7): المقارنة الشاملة بين أثر النسوية وأثر الدعوة الإسلامية (نضال وشباب بودكاست وعي)",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=L-xjnK5WnEM",
+          "imageUrl": "https://i.ytimg.com/vi/L-xjnK5WnEM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=L-xjnK5WnEM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kan_zahoka",
+  "title": "جديد قناة كان زهوقا",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد قناة كان زهوقا على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد قناة كان زهوقا",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "الإجهاض والمنظمات النسوية العامة والمستقلة",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=u5oq232VNqE",
+          "imageUrl": "https://i.ytimg.com/vi/u5oq232VNqE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=u5oq232VNqE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روحي على المطبخ؟ -- #غزل_النسوية #اكسبلور #النسويه",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=J0BPvX1eh-o",
+          "imageUrl": "https://i.ytimg.com/vi/J0BPvX1eh-o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=J0BPvX1eh-o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

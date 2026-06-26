@@ -1,0 +1,32 @@
+{
+  "id": "albahbhany",
+  "title": "جديد البحبحاني",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد البحبحاني على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد البحبحاني",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "لماذا تم حـدْف هذا الفيديو؟",
+          "subtitle": "جديد البحبحاني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=N0g5lFlWMnU",
+          "imageUrl": "https://i.ytimg.com/vi/N0g5lFlWMnU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=N0g5lFlWMnU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

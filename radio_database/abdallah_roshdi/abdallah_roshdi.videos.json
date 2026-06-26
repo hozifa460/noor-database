@@ -1,0 +1,102 @@
+{
+  "id": "abdallah_roshdi",
+  "title": "جديد الدكتور عبدالله رشدي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الدكتور عبدالله رشدي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الدكتور عبدالله رشدي",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "نقاش عقلاني مع فتاة تزعم بأن الله هو الشيطان ! ",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=0cnfuMclG6E",
+          "imageUrl": "https://i.ytimg.com/vi/0cnfuMclG6E/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0cnfuMclG6E",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "نقاش هادئ مع مقترح قانون الأحوال الشخصية الجديد ولماذا نتحفظ عليه",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JvWV0eUi1WI",
+          "imageUrl": "https://i.ytimg.com/vi/JvWV0eUi1WI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JvWV0eUi1WI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا تم حذف تحريم زواج المسلمة من غير المسلم في مقترح قانون الأحوال الشخصية الجديد!؟",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SeqyKLLMXOw",
+          "imageUrl": "https://i.ytimg.com/vi/SeqyKLLMXOw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SeqyKLLMXOw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا نطالب بتعديل قانون الرؤية عند الطلاق!؟",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=4kQu9rvGbos",
+          "imageUrl": "https://i.ytimg.com/vi/4kQu9rvGbos/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=4kQu9rvGbos",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أنا مش عايزة أتجوز! هتعمل إيه لو بنتك قالت لك الكلام دا!؟",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=0R8Ntwtr0oQ",
+          "imageUrl": "https://i.ytimg.com/vi/0R8Ntwtr0oQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0R8Ntwtr0oQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ليه بتحاربوا الكلاب!؟",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yw5CAPMpey8",
+          "imageUrl": "https://i.ytimg.com/vi/yw5CAPMpey8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yw5CAPMpey8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مفيش حاجة اسمها إن الله إذا أحب عبدا ابتلاه !!",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dbnLQ7X20pI",
+          "imageUrl": "https://i.ytimg.com/vi/dbnLQ7X20pI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dbnLQ7X20pI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "آية سماحة و عمرو وردة وموقف الشيخ عبدالله رشدي",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=auJ5kQp--rw",
+          "imageUrl": "https://i.ytimg.com/vi/auJ5kQp--rw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=auJ5kQp--rw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

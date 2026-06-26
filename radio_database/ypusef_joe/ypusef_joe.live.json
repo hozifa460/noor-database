@@ -1,0 +1,32 @@
+{
+  "id": "ypusef_joe",
+  "title": "جديد يوسف جو",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد يوسف جو على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد يوسف جو",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "بث مباشر من قِبل YUOSEF JO",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qD5yXwoB5xE",
+          "imageUrl": "https://i.ytimg.com/vi/qD5yXwoB5xE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qD5yXwoB5xE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

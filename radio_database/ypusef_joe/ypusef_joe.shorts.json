@@ -1,0 +1,132 @@
+{
+  "id": "ypusef_joe",
+  "title": "جديد يوسف جو",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد يوسف جو على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد يوسف جو",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "خبراء العلاقات 🤡",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=MpDxUPE5d-U",
+          "imageUrl": "https://i.ytimg.com/vi/MpDxUPE5d-U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=MpDxUPE5d-U",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتقو الله",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=OObzl-lkED0",
+          "imageUrl": "https://i.ytimg.com/vi/OObzl-lkED0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=OObzl-lkED0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "فتنة المرأة",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=I75ozV15ZRc",
+          "imageUrl": "https://i.ytimg.com/vi/I75ozV15ZRc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=I75ozV15ZRc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "فاهم حاجة؟",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=V3mxpsC5XgM",
+          "imageUrl": "https://i.ytimg.com/vi/V3mxpsC5XgM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=V3mxpsC5XgM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الالحاد اليوتيوبي 🤡",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CrxuGUsSMFo",
+          "imageUrl": "https://i.ytimg.com/vi/CrxuGUsSMFo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CrxuGUsSMFo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الثقافة في القرافة 🤡",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PEyjraEjRj8",
+          "imageUrl": "https://i.ytimg.com/vi/PEyjraEjRj8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PEyjraEjRj8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "انا ضد الحجاب",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=eGvi2hXtaiI",
+          "imageUrl": "https://i.ytimg.com/vi/eGvi2hXtaiI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eGvi2hXtaiI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بيغنو وبيرقصو في المسجد",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yqz0DYRMN5w",
+          "imageUrl": "https://i.ytimg.com/vi/yqz0DYRMN5w/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yqz0DYRMN5w",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مسيلمة الكذاب",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=MMUfZ07kWUQ",
+          "imageUrl": "https://i.ytimg.com/vi/MMUfZ07kWUQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=MMUfZ07kWUQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الوقح",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=eKo0HwqeHsI",
+          "imageUrl": "https://i.ytimg.com/vi/eKo0HwqeHsI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eKo0HwqeHsI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "عارف كل حاجة",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZluuY0xv5UU",
+          "imageUrl": "https://i.ytimg.com/vi/ZluuY0xv5UU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZluuY0xv5UU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
