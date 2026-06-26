@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "المناظرة الأكثر جدلًا.. وليد إسماعيل في مواجهة نارية مع وعد اللامي",
-          "subtitle": "جديد مناظرات",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=U7qVkOPHdsk",
-          "imageUrl": "https://i.ytimg.com/vi/U7qVkOPHdsk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=U7qVkOPHdsk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "مناظرة طاحنة 🔥 زين خير الله في مواجهة مباشرة أمام الشيعي أثر الله!",
           "subtitle": "جديد مناظرات",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=h3FtjzKdmzg",
           "imageUrl": "https://i.ytimg.com/vi/h3FtjzKdmzg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=h3FtjzKdmzg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "المناظرة الأكثر جدلًا.. وليد إسماعيل في مواجهة نارية مع وعد اللامي",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=U7qVkOPHdsk",
+          "imageUrl": "https://i.ytimg.com/vi/U7qVkOPHdsk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=U7qVkOPHdsk",
           "videoSource": "youtube",
           "mediaType": "both"
         }
