@@ -128,6 +128,18 @@ Future<int> main(List<String> args) async {
       print('  [INFO] removed legacy $oldRel from index.json');
     }
 
+    // ════════════════════════════════════════════════════════════
+    // LIVE STREAM LIFECYCLE: Keep ALL streams (live + ended) in .live.json.
+    // The isLiveNow flag distinguishes active streams from recordings.
+    //   - isLiveNow=true: stream is currently broadcasting (in UULV playlist)
+    //   - isLiveNow=false: stream has ended (recording)
+    // The platform's live-check polling updates isLiveNow in real-time.
+    // ════════════════════════════════════════════════════════════
+    // (No need to move streams to .videos.json — they stay in .live.json
+    // with isLiveNow flag. The platform shows only isLiveNow=true in the
+    // "Live Now" section, and shows all .live.json items in the "Live"
+    // section (including recordings).)
+
     // For each bucket: MERGE + AUTO-ARCHIVE
     Future<void> writeBucketMerged(
       String kind,
