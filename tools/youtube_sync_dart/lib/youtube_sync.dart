@@ -289,7 +289,7 @@ Map<String, dynamic> _baseCategory(String id, String name) => {
       'imageUrl': '',
     };
 
-Map<String, dynamic> buildLiveFile(String id, String name, List<SubItem> subs) => {
+Map<String, dynamic> buildLiveFile(String id, String name, List<SubItem> subs, {Set<String>? currentlyLiveIds}) => {
       ..._baseCategory(id, name),
       'items': [
         {
