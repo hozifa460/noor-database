@@ -1,0 +1,42 @@
+{
+  "id": "Towards_Eternity",
+  "title": "جديد Towards Eternity",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد Towards Eternity على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد Towards Eternity",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "\"صديقتي الهندوسية أعادتني إلى الإسلام\" - قصة حياة مؤثرة لـ @The Sunnah Guy",
+          "subtitle": "جديد Towards Eternity",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qBLCFR4cnGc",
+          "imageUrl": "https://i.ytimg.com/vi/qBLCFR4cnGc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qBLCFR4cnGc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشباب الذي تخشاه إسرائيل! - جيل زد",
+          "subtitle": "جديد Towards Eternity",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JVH5LMwGzyg",
+          "imageUrl": "https://i.ytimg.com/vi/JVH5LMwGzyg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JVH5LMwGzyg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "yousef_alkott",
+  "title": "جديد يوسف القط",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد يوسف القط على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد يوسف القط",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "عثمان بن عفان | لماذا حاصروه و قتلوه ؟",
+          "subtitle": "جديد يوسف القط",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=NUWoLV6FNf0",
+          "imageUrl": "https://i.ytimg.com/vi/NUWoLV6FNf0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=NUWoLV6FNf0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

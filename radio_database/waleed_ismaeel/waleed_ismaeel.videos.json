@@ -1,0 +1,42 @@
+{
+  "id": "waleed_ismaeel",
+  "title": "جديد الشيخ وليد اسماعيل",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ وليد اسماعيل على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الشيخ وليد اسماعيل",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "وليد إسماعيل | 1284 | حاول استفزاز الدافع بسؤال حساس.. لكن الرد فضح هشاشة كلامه",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vV1RSDqMzOM",
+          "imageUrl": "https://i.ytimg.com/vi/vV1RSDqMzOM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vV1RSDqMzOM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "وليد إسماعيل | 1283 | دخل ليثبت وجهة نظره... فوجد نفسه في موقف صعب أمام الدافع!",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZVr1cYFZ_vs",
+          "imageUrl": "https://i.ytimg.com/vi/ZVr1cYFZ_vs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZVr1cYFZ_vs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

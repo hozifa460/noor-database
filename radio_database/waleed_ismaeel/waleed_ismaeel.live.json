@@ -1,0 +1,52 @@
+{
+  "id": "waleed_ismaeel",
+  "title": "جديد الشيخ وليد اسماعيل",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ وليد اسماعيل على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد الشيخ وليد اسماعيل",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "وليد إسماعيل | الدافع | 1285| اليــــوم المفتــــوح",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=q8QotwMF684",
+          "imageUrl": "https://i.ytimg.com/vi/q8QotwMF684/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=q8QotwMF684",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "وليد إسماعيل | الدافع | 1284| إذا مسه الشر جزوعا",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZeSBnCOf-Mc",
+          "imageUrl": "https://i.ytimg.com/vi/ZeSBnCOf-Mc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZeSBnCOf-Mc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "وليد إسماعيل | الدافع | 1284| لماذا لم يقدم علي لكتابة الكتاب؟",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=fuu9KhI2E6U",
+          "imageUrl": "https://i.ytimg.com/vi/fuu9KhI2E6U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fuu9KhI2E6U",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

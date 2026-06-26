@@ -1,0 +1,82 @@
+{
+  "id": "alsakher_alhadef",
+  "title": "جديد الساخر الهادف",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الساخر الهادف على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الساخر الهادف",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "دخل النبيﷺ المدينة المنورة فاتولد أكبر منافق في التاريخ!  بداية المنافقين 🔻",
+          "subtitle": "جديد الساخر الهادف",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dUNikiFxBnU",
+          "imageUrl": "https://i.ytimg.com/vi/dUNikiFxBnU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dUNikiFxBnU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ليلة العمر: القرار اللي - للأسف -هــتنـ ـدم عليه مدى الحياة🔻🤵🏻👰🏻‍♀️",
+          "subtitle": "جديد الساخر الهادف",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=aIezy0bVL14",
+          "imageUrl": "https://i.ytimg.com/vi/aIezy0bVL14/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=aIezy0bVL14",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "المدينة المنورة الاختيار الذي غيّر مجرى التاريخ 🔻",
+          "subtitle": "جديد الساخر الهادف",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=LeevgG5JHqc",
+          "imageUrl": "https://i.ytimg.com/vi/LeevgG5JHqc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LeevgG5JHqc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حكايتي مع والدتي والقومسيون الطبي",
+          "subtitle": "جديد الساخر الهادف",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=w8UXXl7tFxA",
+          "imageUrl": "https://i.ytimg.com/vi/w8UXXl7tFxA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=w8UXXl7tFxA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "موقف حصل بيني وبين ٣ بنات في معرض الكتاب",
+          "subtitle": "جديد الساخر الهادف",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=trDv9aLtju4",
+          "imageUrl": "https://i.ytimg.com/vi/trDv9aLtju4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=trDv9aLtju4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كانوا بيصلوا في نفس المسجد، بس الفرق بينهم كان كبير | صناعة الأثر",
+          "subtitle": "جديد الساخر الهادف",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jXrWrYi-t64",
+          "imageUrl": "https://i.ytimg.com/vi/jXrWrYi-t64/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jXrWrYi-t64",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
