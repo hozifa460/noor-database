@@ -2,11 +2,6 @@
   "version": 1,
   "channels": [
     {
-      "categoryId": "Dawah_youtubers",
-      "channelId": "UCQpGIJlmR0ACzNsY_X6Qa-Q",
-      "channelName": "جديد Dawah Youtubers Arabicا"
-    },
-    {
       "categoryId": "sherif_ali",
       "channelId": "UC562PEzdpMULIOtinS79mzw",
       "channelName": "جديد الشيخ شريف على"
@@ -37,9 +32,34 @@
       "channelName": "جديد يوسف جو"
     },
     {
-      "categoryId": "example_channel",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxxxx",
-      "channelName": "اسم القناة هنا"
+      "categoryId": "tarekhna",
+      "channelId": "UCeXVexB_8w0tAMLdYh-FlPA",
+      "channelName": "جديد تاريخنا"
+    },
+    {
+      "categoryId": "siraj_hyani",
+      "channelId": "UC6ztFpFiyq0MZdIGdaZgLCQ",
+      "channelName": "جديد سراج حياني"
+    },
+    {
+      "categoryId": "mohamed_ghanayem",
+      "channelId": "UC8eFjAmIUnLKLnfJZFPz6QQ",
+      "channelName": "جديد محمد غنايم"
+    },
+    {
+      "categoryId": "Ibrahem_Abdel_Ghany",
+      "channelId": "UCgGaV4AYFJp8o8QerlKCBGQ",
+      "channelName": "جديد ابراهيم عبد الغنى"
+    },
+    {
+      "categoryId": "monazarat",
+      "channelId": "UC1vrEXZGhmjDT7Wu3sMAypA",
+      "channelName": "جديد مناظرات"
+    },
+    {
+      "categoryId": "DR_Zaker_Naik",
+      "channelId": "UC3YmP7nqf514I1zh1eVbzrA",
+      "channelName": "جديد دكتور ذاكر نايك"
     }
   ]
 }
