@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "شيعي شارد",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=7jEk-HH__aM",
+          "imageUrl": "https://i.ytimg.com/vi/7jEk-HH__aM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7jEk-HH__aM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "مصر بدها تلعب مع ايران؟",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
