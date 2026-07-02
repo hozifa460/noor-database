@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ما وراء كواليس المؤثـريـن",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cO3C8ZY2b2A",
+          "imageUrl": "https://i.ytimg.com/vi/cO3C8ZY2b2A/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cO3C8ZY2b2A",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما وراء كواليس كأس العالم",
           "subtitle": "جديد محمد غنايم",
           "emoji": "",
