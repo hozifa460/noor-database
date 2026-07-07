@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 126 | Dr Zakir Naik",
-          "subtitle": "جديد دكتور ذاكر نايك",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=QOU2tgPjXrs",
-          "imageUrl": "https://i.ytimg.com/vi/QOU2tgPjXrs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=QOU2tgPjXrs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "Islam and Christianity: Debates of the Giants - Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=rBVrGPKiBso",
           "imageUrl": "https://i.ytimg.com/vi/rBVrGPKiBso/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=rBVrGPKiBso",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 126 | Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=QOU2tgPjXrs",
+          "imageUrl": "https://i.ytimg.com/vi/QOU2tgPjXrs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=QOU2tgPjXrs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
