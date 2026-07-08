@@ -1,0 +1,32 @@
+{
+  "id": "siraj_hyani",
+  "title": "جديد سراج حياني",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد سراج حياني على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد سراج حياني",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "هل تحدي القرآن للناس معجز؟ | يسألنا الملحدون",
+          "subtitle": "جديد سراج حياني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZPcBxFtkUOU",
+          "imageUrl": "https://i.ytimg.com/vi/ZPcBxFtkUOU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZPcBxFtkUOU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
