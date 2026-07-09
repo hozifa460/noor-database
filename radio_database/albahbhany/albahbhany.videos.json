@@ -27,12 +27,32 @@
           "mediaType": "both"
         },
         {
+          "title": "انتظرونا اليوم  الواحدة ظهراً #البحبحاني  تعليق على مناظرة محمد بن شمس الدين والمـ١ـحد حسن عيسى",
+          "subtitle": "جديد البحبحاني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_SfGDgVgctQ",
+          "imageUrl": "https://i.ytimg.com/vi/_SfGDgVgctQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_SfGDgVgctQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الرد على لويس الارجواني -لماذا علينا ان نعمل ضريح ومزار مقدس لداروين ؟",
           "subtitle": "جديد البحبحاني",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=vyJAWgAQIPs",
           "imageUrl": "https://i.ytimg.com/vi/vyJAWgAQIPs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=vyJAWgAQIPs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هل بحثت في كل الأديان لكي تعلم صحة الإسلام ؟ #البحبحاني",
+          "subtitle": "جديد البحبحاني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=e3tuD0Wzids",
+          "imageUrl": "https://i.ytimg.com/vi/e3tuD0Wzids/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=e3tuD0Wzids",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -63,6 +83,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=z47Bm3KkMdg",
           "imageUrl": "https://i.ytimg.com/vi/z47Bm3KkMdg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=z47Bm3KkMdg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "متى سأكون ملحداً؟",
+          "subtitle": "جديد البحبحاني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2JjgwcnenvM",
+          "imageUrl": "https://i.ytimg.com/vi/2JjgwcnenvM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2JjgwcnenvM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -117,6 +147,16 @@
           "mediaType": "both"
         },
         {
+          "title": "لماذا تم حـدْف هذا الفيديو؟",
+          "subtitle": "جديد البحبحاني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=N0g5lFlWMnU",
+          "imageUrl": "https://i.ytimg.com/vi/N0g5lFlWMnU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=N0g5lFlWMnU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "إساءة فيلم برشامة للإسلام و أسرار وكوارث لم يلاحظها أحد ! 🛑",
           "subtitle": "جديد البحبحاني",
           "emoji": "",
@@ -163,26 +203,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=s80L7X8v8rE",
           "imageUrl": "https://i.ytimg.com/vi/s80L7X8v8rE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=s80L7X8v8rE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "متى سأكون ملحداً؟",
-          "subtitle": "جديد البحبحاني",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2JjgwcnenvM",
-          "imageUrl": "https://i.ytimg.com/vi/2JjgwcnenvM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2JjgwcnenvM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "لماذا تم حـدْف هذا الفيديو؟",
-          "subtitle": "جديد البحبحاني",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=N0g5lFlWMnU",
-          "imageUrl": "https://i.ytimg.com/vi/N0g5lFlWMnU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=N0g5lFlWMnU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
