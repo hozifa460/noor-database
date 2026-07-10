@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الإسلام في مواجهة البوذية والهندوسية: الجدل الكبير حول الذكاء الاصطناعي! - من فاز؟",
-          "subtitle": "جديد Towards Eternity",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=dqE98AIhK5E",
-          "imageUrl": "https://i.ytimg.com/vi/dqE98AIhK5E/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=dqE98AIhK5E",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "جيل زد يتجه نحو الإسلام - الشباب الذي لم يتوقعه الغرب",
           "subtitle": "جديد Towards Eternity",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=D2Tbi-e_5W8",
           "imageUrl": "https://i.ytimg.com/vi/D2Tbi-e_5W8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=D2Tbi-e_5W8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الإسلام في مواجهة البوذية والهندوسية: الجدل الكبير حول الذكاء الاصطناعي! - من فاز؟",
+          "subtitle": "جديد Towards Eternity",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dqE98AIhK5E",
+          "imageUrl": "https://i.ytimg.com/vi/dqE98AIhK5E/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dqE98AIhK5E",
           "videoSource": "youtube",
           "mediaType": "both"
         },
