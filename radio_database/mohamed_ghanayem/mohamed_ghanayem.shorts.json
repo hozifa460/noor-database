@@ -1,0 +1,32 @@
+{
+  "id": "mohamed_ghanayem",
+  "title": "جديد محمد غنايم",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد محمد غنايم على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد محمد غنايم",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "🤝",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yCVtVk8p73k",
+          "imageUrl": "https://i.ytimg.com/vi/yCVtVk8p73k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yCVtVk8p73k",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
