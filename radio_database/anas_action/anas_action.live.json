@@ -1,0 +1,32 @@
+{
+  "id": "anas_action",
+  "title": "جديد أنس أكشن",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد أنس أكشن على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد أنس أكشن",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "وصايا #١ | أنس آكشن",
+          "subtitle": "جديد أنس أكشن",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=5OobpCUetSQ",
+          "imageUrl": "https://i.ytimg.com/vi/5OobpCUetSQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5OobpCUetSQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
