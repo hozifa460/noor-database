@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "اعرف كيف وتعالا",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=UUlDl9upjjw",
+          "imageUrl": "https://i.ytimg.com/vi/UUlDl9upjjw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=UUlDl9upjjw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "شيطان وأسلم",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",

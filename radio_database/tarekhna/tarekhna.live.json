@@ -1,0 +1,32 @@
+{
+  "id": "tarekhna",
+  "title": "جديد تاريخنا",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد تاريخنا على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد تاريخنا",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "يثرب.. التمهيد الإلهي لأرض النصرة والمآب | الرجل الأعظم | الحلقة 2",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=FJiILbvLxT8",
+          "imageUrl": "https://i.ytimg.com/vi/FJiILbvLxT8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FJiILbvLxT8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
