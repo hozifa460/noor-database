@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "Public Speaking in IIS School - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=sq4Z6VOyenE",
+          "imageUrl": "https://i.ytimg.com/vi/sq4Z6VOyenE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sq4Z6VOyenE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "The Untold Story Behind Dr Zakir Naik's Career Shift - Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
