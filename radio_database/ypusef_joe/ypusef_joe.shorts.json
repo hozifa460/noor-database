@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "اعجن يا فنان اعجن",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HH4MouqOmq4",
+          "imageUrl": "https://i.ytimg.com/vi/HH4MouqOmq4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HH4MouqOmq4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "جواز الجواري",
           "subtitle": "جديد يوسف جو",
           "emoji": "",
