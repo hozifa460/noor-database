@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ظرط يا فنان هو الظرط بفلوس",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=T8RVJbkSoGU",
+          "imageUrl": "https://i.ytimg.com/vi/T8RVJbkSoGU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=T8RVJbkSoGU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "اعجن يا فنان اعجن",
           "subtitle": "جديد يوسف جو",
           "emoji": "",
