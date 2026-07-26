@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ما وراء كواليس تحدي الثلاثين",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=FnCG37eeAn4",
+          "imageUrl": "https://i.ytimg.com/vi/FnCG37eeAn4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FnCG37eeAn4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما وراء كواليس المؤثـريـن",
           "subtitle": "جديد محمد غنايم",
           "emoji": "",
