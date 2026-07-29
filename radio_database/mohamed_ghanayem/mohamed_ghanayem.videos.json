@@ -27,16 +27,6 @@
           "mediaType": "both"
         },
         {
-          "title": "🤝",
-          "subtitle": "جديد محمد غنايم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=yCVtVk8p73k",
-          "imageUrl": "https://i.ytimg.com/vi/yCVtVk8p73k/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=yCVtVk8p73k",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ما وراء كواليس المؤثـريـن",
           "subtitle": "جديد محمد غنايم",
           "emoji": "",
@@ -163,6 +153,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=i-6XXu57UlU",
           "imageUrl": "https://i.ytimg.com/vi/i-6XXu57UlU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=i-6XXu57UlU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "🤝",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yCVtVk8p73k",
+          "imageUrl": "https://i.ytimg.com/vi/yCVtVk8p73k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yCVtVk8p73k",
           "videoSource": "youtube",
           "mediaType": "both"
         },
