@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ما وراء كواليس برامج الفضائح",
+          "subtitle": "جديد محمد غنايم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BgXVQmEza0o",
+          "imageUrl": "https://i.ytimg.com/vi/BgXVQmEza0o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BgXVQmEza0o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما وراء كواليس تحدي الثلاثين",
           "subtitle": "جديد محمد غنايم",
           "emoji": "",
