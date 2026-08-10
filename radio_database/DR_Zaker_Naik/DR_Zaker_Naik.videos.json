@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "Nature and Order of the Most Common Questions Asked about Islam - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=lT0ltAj9lIw",
+          "imageUrl": "https://i.ytimg.com/vi/lT0ltAj9lIw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=lT0ltAj9lIw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 141 | Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=1-d4QH8g0QY",
           "imageUrl": "https://i.ytimg.com/vi/1-d4QH8g0QY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=1-d4QH8g0QY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "Nature and Order of the Most Common Questions Asked about Islam - Dr Zakir Naik",
-          "subtitle": "جديد دكتور ذاكر نايك",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=lT0ltAj9lIw",
-          "imageUrl": "https://i.ytimg.com/vi/lT0ltAj9lIw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=lT0ltAj9lIw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
