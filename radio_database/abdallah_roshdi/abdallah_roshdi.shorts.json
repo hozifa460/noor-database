@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "آخر قلة أدب!",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=5i2vxET-Ang",
+          "imageUrl": "https://i.ytimg.com/vi/5i2vxET-Ang/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5i2vxET-Ang",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "سيماهم في وجوههم!",
           "subtitle": "جديد الدكتور عبدالله رشدي",
           "emoji": "",
