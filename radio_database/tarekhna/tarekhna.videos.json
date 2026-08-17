@@ -27,16 +27,6 @@
           "mediaType": "both"
         },
         {
-          "title": "تنوع هائل في الأساليب ضمن إفريقيا .. ما السبب؟",
-          "subtitle": "جديد تاريخنا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=6uZDdWKfe6c",
-          "imageUrl": "https://i.ytimg.com/vi/6uZDdWKfe6c/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=6uZDdWKfe6c",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "هل نقرأ السيرة النبوية كما ينبغي؟ ولماذا قد تغيّر فهمنا للحياة؟ | الحلقة 01",
           "subtitle": "جديد تاريخنا",
           "emoji": "",
@@ -67,32 +57,12 @@
           "mediaType": "both"
         },
         {
-          "title": "تمرد على الانحطاط القيمي والفراغ الديني الذي كانت تعيشه قريش..",
-          "subtitle": "جديد تاريخنا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=SSO82EDbHY8",
-          "imageUrl": "https://i.ytimg.com/vi/SSO82EDbHY8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=SSO82EDbHY8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "التربية التي سبقت الرسالة | الرجل الأعظم | الحلقة 07",
           "subtitle": "جديد تاريخنا",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=4LnWY4wp-nA",
           "imageUrl": "https://i.ytimg.com/vi/4LnWY4wp-nA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=4LnWY4wp-nA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "الأفارقة أكثر الناس انفتاحاً على موضوع الزواج من أجانب",
-          "subtitle": "جديد تاريخنا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=iqCwgcFijJU",
-          "imageUrl": "https://i.ytimg.com/vi/iqCwgcFijJU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=iqCwgcFijJU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -117,16 +87,6 @@
           "mediaType": "both"
         },
         {
-          "title": "مالذي دعا إنكلنرا وفرنسا وروسيا للتحالف ضد الدولة العثمانية ومساعدة اليونانيين على الاستقلال؟",
-          "subtitle": "جديد تاريخنا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=sh689ot722Y",
-          "imageUrl": "https://i.ytimg.com/vi/sh689ot722Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=sh689ot722Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أسرار طفولة النبي محمد ﷺ من عام الفيل إلى ديار بني سعد | الرجل الأعظم | الحلقة 06",
           "subtitle": "جديد تاريخنا",
           "emoji": "",
@@ -147,22 +107,62 @@
           "mediaType": "both"
         },
         {
-          "title": "هل سمعتم بحادثة المروحة؟ وما علاقتها باحتلال فرنسا للجزائر!؟",
-          "subtitle": "جديد تاريخنا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=d56UYTLqml0",
-          "imageUrl": "https://i.ytimg.com/vi/d56UYTLqml0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=d56UYTLqml0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "لماذا دخلت إلى مدننا أشكال لا تشبهنا؟ أزمة الهوية والرموز المعمارية| موروث | الحلقة 06",
           "subtitle": "جديد تاريخنا",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=nsfUL5PN0EU",
           "imageUrl": "https://i.ytimg.com/vi/nsfUL5PN0EU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=nsfUL5PN0EU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تنوع هائل في الأساليب ضمن إفريقيا .. ما السبب؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=6uZDdWKfe6c",
+          "imageUrl": "https://i.ytimg.com/vi/6uZDdWKfe6c/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=6uZDdWKfe6c",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تمرد على الانحطاط القيمي والفراغ الديني الذي كانت تعيشه قريش..",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SSO82EDbHY8",
+          "imageUrl": "https://i.ytimg.com/vi/SSO82EDbHY8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SSO82EDbHY8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الأفارقة أكثر الناس انفتاحاً على موضوع الزواج من أجانب",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=iqCwgcFijJU",
+          "imageUrl": "https://i.ytimg.com/vi/iqCwgcFijJU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=iqCwgcFijJU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مالذي دعا إنكلنرا وفرنسا وروسيا للتحالف ضد الدولة العثمانية ومساعدة اليونانيين على الاستقلال؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=sh689ot722Y",
+          "imageUrl": "https://i.ytimg.com/vi/sh689ot722Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sh689ot722Y",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هل سمعتم بحادثة المروحة؟ وما علاقتها باحتلال فرنسا للجزائر!؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=d56UYTLqml0",
+          "imageUrl": "https://i.ytimg.com/vi/d56UYTLqml0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=d56UYTLqml0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
