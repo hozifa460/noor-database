@@ -47,12 +47,32 @@
           "mediaType": "both"
         },
         {
+          "title": "ادعي لقلبك بالثبات..",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nF1rpMLmb1Y",
+          "imageUrl": "https://i.ytimg.com/vi/nF1rpMLmb1Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nF1rpMLmb1Y",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "مشاعر العمرة - سائر - مع د.أحمد جلال",
           "subtitle": "جديد الشيخ شريف على",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=DovxyLzK1rI",
           "imageUrl": "https://i.ytimg.com/vi/DovxyLzK1rI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=DovxyLzK1rI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لازم لسانك يُثني على الله..",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-H-zexMw4NY",
+          "imageUrl": "https://i.ytimg.com/vi/-H-zexMw4NY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-H-zexMw4NY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -87,6 +107,16 @@
           "mediaType": "both"
         },
         {
+          "title": "وَقَالُوا۟ لِجُلُودِهِمۡ لِمَ شَهِدتُّمۡ عَلَیۡنَا؟!",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2MzF-MGk-zw",
+          "imageUrl": "https://i.ytimg.com/vi/2MzF-MGk-zw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2MzF-MGk-zw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "عبادة الثناء - مجالس الشباب",
           "subtitle": "جديد الشيخ شريف على",
           "emoji": "",
@@ -97,12 +127,32 @@
           "mediaType": "both"
         },
         {
+          "title": "عواقب المعاصي!",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HKJg_DLuGpo",
+          "imageUrl": "https://i.ytimg.com/vi/HKJg_DLuGpo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HKJg_DLuGpo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "علمني نوحٌ - عليه السلام - مجالس الشباب - شريف علي",
           "subtitle": "جديد الشيخ شريف على",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=dKxkqEFYuUU",
           "imageUrl": "https://i.ytimg.com/vi/dKxkqEFYuUU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=dKxkqEFYuUU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "محتاج تعالج المشكلة من عندك!",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=128qwLJRPOs",
+          "imageUrl": "https://i.ytimg.com/vi/128qwLJRPOs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=128qwLJRPOs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -173,36 +223,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=RwGcdMHDO_Q",
           "imageUrl": "https://i.ytimg.com/vi/RwGcdMHDO_Q/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=RwGcdMHDO_Q",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "وَقَالُوا۟ لِجُلُودِهِمۡ لِمَ شَهِدتُّمۡ عَلَیۡنَا؟!",
-          "subtitle": "جديد الشيخ شريف على",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2MzF-MGk-zw",
-          "imageUrl": "https://i.ytimg.com/vi/2MzF-MGk-zw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2MzF-MGk-zw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "عواقب المعاصي!",
-          "subtitle": "جديد الشيخ شريف على",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=HKJg_DLuGpo",
-          "imageUrl": "https://i.ytimg.com/vi/HKJg_DLuGpo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=HKJg_DLuGpo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "محتاج تعالج المشكلة من عندك!",
-          "subtitle": "جديد الشيخ شريف على",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=128qwLJRPOs",
-          "imageUrl": "https://i.ytimg.com/vi/128qwLJRPOs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=128qwLJRPOs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
