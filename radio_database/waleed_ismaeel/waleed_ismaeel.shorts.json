@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "شيعي محتاج يتعلم القرآن",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=5wilKBVp2nA",
+          "imageUrl": "https://i.ytimg.com/vi/5wilKBVp2nA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5wilKBVp2nA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "شيعي أراد إحراج الدافع",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
