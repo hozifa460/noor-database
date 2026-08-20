@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ضياء العوضي",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Zrgole84ZB4",
+          "imageUrl": "https://i.ytimg.com/vi/Zrgole84ZB4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Zrgole84ZB4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "صيدكاست #2 مع الدكتور أبوبكر القاضي 🎙️",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9KJ5Bs3fLzY",
+          "imageUrl": "https://i.ytimg.com/vi/9KJ5Bs3fLzY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9KJ5Bs3fLzY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "شيعي محتاج يتعلم القرآن",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
