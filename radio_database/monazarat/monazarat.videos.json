@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "🔥 مناظرة نارية : المتشيع أثر الله  في مواجهة رامي عيسى",
+          "title": "أثرالله يدخل في تحدٍ طاحن مع وليد إسماعيل.. مناظرة نارية حول السيدة عائشة!",
           "subtitle": "جديد مناظرات",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=AZ7LbgqttUQ",
-          "imageUrl": "https://i.ytimg.com/vi/AZ7LbgqttUQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=AZ7LbgqttUQ",
+          "audioUrl": "https://www.youtube.com/watch?v=gwmw6r-o3Oc",
+          "imageUrl": "https://i.ytimg.com/vi/gwmw6r-o3Oc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=gwmw6r-o3Oc",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -113,6 +113,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=BU_Df_wdiJw",
           "imageUrl": "https://i.ytimg.com/vi/BU_Df_wdiJw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=BU_Df_wdiJw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "🔥 مناظرة نارية : المتشيع أثر الله  في مواجهة رامي عيسى",
+          "subtitle": "جديد مناظرات",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=AZ7LbgqttUQ",
+          "imageUrl": "https://i.ytimg.com/vi/AZ7LbgqttUQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=AZ7LbgqttUQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },
