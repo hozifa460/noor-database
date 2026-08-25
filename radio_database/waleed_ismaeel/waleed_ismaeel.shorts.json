@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "أهو ده حال الجاهل",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=GwVUWoNYuFc",
+          "imageUrl": "https://i.ytimg.com/vi/GwVUWoNYuFc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=GwVUWoNYuFc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أهل بيت النبي",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
