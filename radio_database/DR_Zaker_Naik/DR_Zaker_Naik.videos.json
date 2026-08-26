@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "Supporting the Islamic Sharia A Medical Analysis of Alcoholism - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=bqoTK2SJMWA",
+          "imageUrl": "https://i.ytimg.com/vi/bqoTK2SJMWA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=bqoTK2SJMWA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 150 | Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=gQEKZd6w5ZI",
           "imageUrl": "https://i.ytimg.com/vi/gQEKZd6w5ZI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=gQEKZd6w5ZI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "Supporting the Islamic Sharia A Medical Analysis of Alcoholism - Dr Zakir Naik",
-          "subtitle": "جديد دكتور ذاكر نايك",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=bqoTK2SJMWA",
-          "imageUrl": "https://i.ytimg.com/vi/bqoTK2SJMWA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=bqoTK2SJMWA",
           "videoSource": "youtube",
           "mediaType": "both"
         },

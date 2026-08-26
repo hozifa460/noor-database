@@ -17,16 +17,6 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "سر الشوق والإرتباط بالعمرة",
-          "subtitle": "جديد الشيخ شريف على",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=P14n8A3Rvsw",
-          "imageUrl": "https://i.ytimg.com/vi/P14n8A3Rvsw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=P14n8A3Rvsw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "\"ثُمَّ یَتُوبُونَ مِن قَرِیبࣲ\" - مجالس الشباب - شريف علي",
           "subtitle": "جديد الشيخ شريف على",
           "emoji": "",
@@ -43,16 +33,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=YuL7kk5CG_o",
           "imageUrl": "https://i.ytimg.com/vi/YuL7kk5CG_o/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=YuL7kk5CG_o",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "ربنا سبحانه وتعالى قادِر يبدل حالك..",
-          "subtitle": "جديد الشيخ شريف على",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=szFlIt1XeHk",
-          "imageUrl": "https://i.ytimg.com/vi/szFlIt1XeHk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=szFlIt1XeHk",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -87,32 +67,12 @@
           "mediaType": "both"
         },
         {
-          "title": "ادعي لقلبك بالثبات..",
-          "subtitle": "جديد الشيخ شريف على",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=nF1rpMLmb1Y",
-          "imageUrl": "https://i.ytimg.com/vi/nF1rpMLmb1Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=nF1rpMLmb1Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "مشاعر العمرة - سائر - مع د.أحمد جلال",
           "subtitle": "جديد الشيخ شريف على",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=DovxyLzK1rI",
           "imageUrl": "https://i.ytimg.com/vi/DovxyLzK1rI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=DovxyLzK1rI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "لازم لسانك يُثني على الله..",
-          "subtitle": "جديد الشيخ شريف على",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=-H-zexMw4NY",
-          "imageUrl": "https://i.ytimg.com/vi/-H-zexMw4NY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=-H-zexMw4NY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -143,6 +103,46 @@
           "audioUrl": "https://www.youtube.com/watch?v=O3ngDLbkqDw",
           "imageUrl": "https://i.ytimg.com/vi/O3ngDLbkqDw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=O3ngDLbkqDw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سر الشوق والإرتباط بالعمرة",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=P14n8A3Rvsw",
+          "imageUrl": "https://i.ytimg.com/vi/P14n8A3Rvsw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=P14n8A3Rvsw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ربنا سبحانه وتعالى قادِر يبدل حالك..",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=szFlIt1XeHk",
+          "imageUrl": "https://i.ytimg.com/vi/szFlIt1XeHk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=szFlIt1XeHk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ادعي لقلبك بالثبات..",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nF1rpMLmb1Y",
+          "imageUrl": "https://i.ytimg.com/vi/nF1rpMLmb1Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nF1rpMLmb1Y",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لازم لسانك يُثني على الله..",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-H-zexMw4NY",
+          "imageUrl": "https://i.ytimg.com/vi/-H-zexMw4NY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-H-zexMw4NY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
