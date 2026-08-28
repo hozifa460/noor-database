@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "يوم غدير خم",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=MHyDnJ6jmNc",
+          "imageUrl": "https://i.ytimg.com/vi/MHyDnJ6jmNc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=MHyDnJ6jmNc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "صيدكاست #3 مع الشيخ محمد الخزرجي 🎙️",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
