@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "Equity or Equality Explaining Inheritance in Islam - Dr Zakir Naik",
-          "subtitle": "جديد دكتور ذاكر نايك",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=TPKOPqavJGY",
-          "imageUrl": "https://i.ytimg.com/vi/TPKOPqavJGY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=TPKOPqavJGY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 153 | Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=9KVQL45AYKs",
           "imageUrl": "https://i.ytimg.com/vi/9KVQL45AYKs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9KVQL45AYKs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Equity or Equality Explaining Inheritance in Islam - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=TPKOPqavJGY",
+          "imageUrl": "https://i.ytimg.com/vi/TPKOPqavJGY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=TPKOPqavJGY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
