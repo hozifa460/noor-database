@@ -1,0 +1,32 @@
+{
+  "id": "abdallah_roshdi",
+  "title": "جديد الدكتور عبدالله رشدي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الدكتور عبدالله رشدي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد الدكتور عبدالله رشدي",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "نقاش هادئ مع مقترح قانون الأحوال الشخصية الجديد ولماذا نتحفظ عليه",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JvWV0eUi1WI",
+          "imageUrl": "https://i.ytimg.com/vi/JvWV0eUi1WI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JvWV0eUi1WI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sherif_ali",
+  "title": "جديد الشيخ شريف على",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ شريف على على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد الشيخ شريف على",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "\"ثُمَّ یَتُوبُونَ مِن قَرِیبࣲ\" - مجالس الشباب - شريف علي",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yLGZvdlggWY",
+          "imageUrl": "https://i.ytimg.com/vi/yLGZvdlggWY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yLGZvdlggWY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كأنك تراه - سائر - مع الشيخ عادل شوشة",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=YuL7kk5CG_o",
+          "imageUrl": "https://i.ytimg.com/vi/YuL7kk5CG_o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YuL7kk5CG_o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
