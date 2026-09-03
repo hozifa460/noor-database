@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "المعصية ليست لحظة وتنتهي - التعليق على كتاب الداء والدواء (2) - مجالس الشباب",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=42CemrBCHzw",
+          "imageUrl": "https://i.ytimg.com/vi/42CemrBCHzw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=42CemrBCHzw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ماذا تفعل الذنوب بالإنسان؟ - التعليق على كتاب الداء والدواء (1) - مجالس الشباب",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=lxAfNwYriME",
+          "imageUrl": "https://i.ytimg.com/vi/lxAfNwYriME/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=lxAfNwYriME",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "\"ثُمَّ یَتُوبُونَ مِن قَرِیبࣲ\" - مجالس الشباب - شريف علي",
           "subtitle": "جديد الشيخ شريف على",
           "emoji": "",
@@ -33,6 +53,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=YuL7kk5CG_o",
           "imageUrl": "https://i.ytimg.com/vi/YuL7kk5CG_o/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=YuL7kk5CG_o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مشاعر العمرة - سائر - مع د.أحمد جلال",
+          "subtitle": "جديد الشيخ شريف على",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=DovxyLzK1rI",
+          "imageUrl": "https://i.ytimg.com/vi/DovxyLzK1rI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=DovxyLzK1rI",
           "videoSource": "youtube",
           "mediaType": "both"
         }

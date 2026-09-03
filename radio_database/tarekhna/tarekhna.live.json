@@ -17,12 +17,42 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ماذا فعل الاقتصاد بنا؟ ولماذا يزداد الاكتئاب وتقل السعادة كلما ازداد الرفاه؟ | قصة المال | 13",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Zj0LKZV8gjo",
+          "imageUrl": "https://i.ytimg.com/vi/Zj0LKZV8gjo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Zj0LKZV8gjo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هل يمكن أن نبني بيوتنا من الطوب والحجر وبكلف ممكنة ؟ وأن نبني مدنًا أقل ضوضاء ؟ | موروث | الحلقة 07",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=oMat_JSsM4w",
+          "imageUrl": "https://i.ytimg.com/vi/oMat_JSsM4w/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=oMat_JSsM4w",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "40 عاماً قبل البعثة.. لماذا تأخرت الرسالة | الرجل الأعظم 08",
           "subtitle": "جديد تاريخنا",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=vj9FpJR7tHY",
           "imageUrl": "https://i.ytimg.com/vi/vj9FpJR7tHY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=vj9FpJR7tHY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف قاد النبي ﷺ مشروع بناء الأمة؟ | الرجل الأعظم - أحوال النبي ﷺ  | الحلقة 02",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=GJt_5QQk544",
+          "imageUrl": "https://i.ytimg.com/vi/GJt_5QQk544/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=GJt_5QQk544",
           "videoSource": "youtube",
           "mediaType": "both"
         },
