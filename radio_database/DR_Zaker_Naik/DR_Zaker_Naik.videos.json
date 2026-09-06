@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 156 | Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=w-VQnUP1Wic",
+          "imageUrl": "https://i.ytimg.com/vi/w-VQnUP1Wic/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=w-VQnUP1Wic",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "Proving the Hereafter - Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
@@ -123,16 +133,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=hoZhN5P7uIQ",
           "imageUrl": "https://i.ytimg.com/vi/hoZhN5P7uIQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=hoZhN5P7uIQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "Let's Become Effective Da'ees - International Da'wah Training Programme - Part 156 | Dr Zakir Naik",
-          "subtitle": "جديد دكتور ذاكر نايك",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=w-VQnUP1Wic",
-          "imageUrl": "https://i.ytimg.com/vi/w-VQnUP1Wic/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=w-VQnUP1Wic",
           "videoSource": "youtube",
           "mediaType": "both"
         },
