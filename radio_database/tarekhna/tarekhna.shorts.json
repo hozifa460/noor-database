@@ -17,16 +17,6 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "هل أخطاء عثمان تبرر الخروج عليه؟",
-          "subtitle": "جديد تاريخنا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mqrkqxQQWcc",
-          "imageUrl": "https://i.ytimg.com/vi/mqrkqxQQWcc/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mqrkqxQQWcc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "من خطأ أحمد الناصر لدين الله إلى خيانة ابن العلقمي هكذا بدأت كارثة بغداد وانتهت بسقوطها عام 1258م",
           "subtitle": "جديد تاريخنا",
           "emoji": "",
@@ -63,6 +53,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=dOPu4t7CoTw",
           "imageUrl": "https://i.ytimg.com/vi/dOPu4t7CoTw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=dOPu4t7CoTw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هل أخطاء عثمان تبرر الخروج عليه؟",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mqrkqxQQWcc",
+          "imageUrl": "https://i.ytimg.com/vi/mqrkqxQQWcc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mqrkqxQQWcc",
           "videoSource": "youtube",
           "mediaType": "both"
         },
