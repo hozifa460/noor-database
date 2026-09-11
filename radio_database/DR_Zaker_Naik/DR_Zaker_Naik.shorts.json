@@ -27,16 +27,6 @@
           "mediaType": "both"
         },
         {
-          "title": "Terrorism is not Muslim Monopoly - Dr Zakir Naik",
-          "subtitle": "جديد دكتور ذاكر نايك",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=T2JsVqcPOes",
-          "imageUrl": "https://i.ytimg.com/vi/T2JsVqcPOes/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=T2JsVqcPOes",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "A Christian Claim that Prophet Muhammad (pbuh) Worshiped Idols - Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
@@ -123,6 +113,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=bNgpq4zzej4",
           "imageUrl": "https://i.ytimg.com/vi/bNgpq4zzej4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=bNgpq4zzej4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Terrorism is not Muslim Monopoly - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=T2JsVqcPOes",
+          "imageUrl": "https://i.ytimg.com/vi/T2JsVqcPOes/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=T2JsVqcPOes",
           "videoSource": "youtube",
           "mediaType": "both"
         },
