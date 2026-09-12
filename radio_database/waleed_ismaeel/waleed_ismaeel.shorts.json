@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حريف تريندات",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mXV-aZJ8BhM",
+          "imageUrl": "https://i.ytimg.com/vi/mXV-aZJ8BhM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mXV-aZJ8BhM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "صيدكاست مع عبدالله رشدي🎙️",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
