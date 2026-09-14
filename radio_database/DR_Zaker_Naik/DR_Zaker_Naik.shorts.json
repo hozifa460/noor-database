@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "Once Someone Enters Islam, They have to Follow its Teachings - Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=A2-vYd8otoU",
+          "imageUrl": "https://i.ytimg.com/vi/A2-vYd8otoU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=A2-vYd8otoU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "Righteousness can be Achieved by Following the Quran and Sunnah - Dr Zakir Naik",
           "subtitle": "جديد دكتور ذاكر نايك",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=XcNtyE_n1a4",
           "imageUrl": "https://i.ytimg.com/vi/XcNtyE_n1a4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=XcNtyE_n1a4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "Terrorist Attacks are Done Mostly by Non Muslims- Dr Zakir Naik",
-          "subtitle": "جديد دكتور ذاكر نايك",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=zrDZwPgddrM",
-          "imageUrl": "https://i.ytimg.com/vi/zrDZwPgddrM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=zrDZwPgddrM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -103,6 +103,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=3ZfCrO6A8KQ",
           "imageUrl": "https://i.ytimg.com/vi/3ZfCrO6A8KQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=3ZfCrO6A8KQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Terrorist Attacks are Done Mostly by Non Muslims- Dr Zakir Naik",
+          "subtitle": "جديد دكتور ذاكر نايك",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zrDZwPgddrM",
+          "imageUrl": "https://i.ytimg.com/vi/zrDZwPgddrM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zrDZwPgddrM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
