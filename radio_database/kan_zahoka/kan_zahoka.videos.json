@@ -127,22 +127,22 @@
           "mediaType": "both"
         },
         {
-          "title": "غزل النسوية (3): أصل المساواة والعدل (الفوارق بين الجنسين ومبحث الفطرة والغريزة) -ج1",
-          "subtitle": "جديد قناة كان زهوقا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ZODuiaCEH9o",
-          "imageUrl": "https://i.ytimg.com/vi/ZODuiaCEH9o/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ZODuiaCEH9o",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "غزل النسوية (4): أصل المساواة والعدل (العدل بين الأنظمة المختلفة والنظام الإسلامي) -ج2",
           "subtitle": "جديد قناة كان زهوقا",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=sMgoOyHCCo8",
           "imageUrl": "https://i.ytimg.com/vi/sMgoOyHCCo8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=sMgoOyHCCo8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "غزل النسوية (3): أصل المساواة والعدل (الفوارق بين الجنسين ومبحث الفطرة والغريزة) -ج1",
+          "subtitle": "جديد قناة كان زهوقا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZODuiaCEH9o",
+          "imageUrl": "https://i.ytimg.com/vi/ZODuiaCEH9o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZODuiaCEH9o",
           "videoSource": "youtube",
           "mediaType": "both"
         },
