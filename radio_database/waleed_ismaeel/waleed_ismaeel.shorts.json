@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "انزل يلا ياغبي",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Ks2OBmDUre4",
+          "imageUrl": "https://i.ytimg.com/vi/Ks2OBmDUre4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ks2OBmDUre4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أنا القائم المهدي",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=P5I7aqjURf4",
+          "imageUrl": "https://i.ytimg.com/vi/P5I7aqjURf4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=P5I7aqjURf4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "من الذي جمع القرآن الكريم ؟",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
