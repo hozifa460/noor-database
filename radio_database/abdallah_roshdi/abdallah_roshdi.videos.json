@@ -17,42 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "لماذا ؟",
-          "subtitle": "جديد الدكتور عبدالله رشدي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=pBejIUQjtiM",
-          "imageUrl": "https://i.ytimg.com/vi/pBejIUQjtiM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=pBejIUQjtiM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "لا تزيدوا التمزيق في أمة الإسلام!",
-          "subtitle": "جديد الدكتور عبدالله رشدي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=BwO8D5N-GpQ",
-          "imageUrl": "https://i.ytimg.com/vi/BwO8D5N-GpQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=BwO8D5N-GpQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "وليد إسماعيل يسأل عبدالله رشدي لماذا تراجعت عن دعاء الأموات!؟",
           "subtitle": "جديد الدكتور عبدالله رشدي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=xsDRxaVbK6I",
           "imageUrl": "https://i.ytimg.com/vi/xsDRxaVbK6I/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=xsDRxaVbK6I",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "عايز مراته تشتغل!",
-          "subtitle": "جديد الدكتور عبدالله رشدي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=PqrmgplyBKE",
-          "imageUrl": "https://i.ytimg.com/vi/PqrmgplyBKE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=PqrmgplyBKE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -73,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=zLkwNS31S4M",
           "imageUrl": "https://i.ytimg.com/vi/zLkwNS31S4M/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zLkwNS31S4M",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "الزوج الأناني!",
-          "subtitle": "جديد الدكتور عبدالله رشدي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=L9roDUpiZX8",
-          "imageUrl": "https://i.ytimg.com/vi/L9roDUpiZX8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=L9roDUpiZX8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -123,6 +83,46 @@
           "audioUrl": "https://www.youtube.com/watch?v=cU-WDDyEhX0",
           "imageUrl": "https://i.ytimg.com/vi/cU-WDDyEhX0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=cU-WDDyEhX0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا ؟",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=pBejIUQjtiM",
+          "imageUrl": "https://i.ytimg.com/vi/pBejIUQjtiM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=pBejIUQjtiM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لا تزيدوا التمزيق في أمة الإسلام!",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BwO8D5N-GpQ",
+          "imageUrl": "https://i.ytimg.com/vi/BwO8D5N-GpQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BwO8D5N-GpQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "عايز مراته تشتغل!",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PqrmgplyBKE",
+          "imageUrl": "https://i.ytimg.com/vi/PqrmgplyBKE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PqrmgplyBKE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الزوج الأناني!",
+          "subtitle": "جديد الدكتور عبدالله رشدي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=L9roDUpiZX8",
+          "imageUrl": "https://i.ytimg.com/vi/L9roDUpiZX8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=L9roDUpiZX8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
