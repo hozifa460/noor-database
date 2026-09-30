@@ -1,0 +1,32 @@
+{
+  "id": "alsakher_alhadef",
+  "title": "جديد الساخر الهادف",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الساخر الهادف على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد الساخر الهادف",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "بث مباشر من قِبل Ibrahim Emam - الساخر الهادف",
+          "subtitle": "جديد الساخر الهادف",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=5UXO2N5PZN8",
+          "imageUrl": "https://i.ytimg.com/vi/5UXO2N5PZN8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5UXO2N5PZN8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
