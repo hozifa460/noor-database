@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تست تست تست",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=uye3P30ghwM",
+          "imageUrl": "https://i.ytimg.com/vi/uye3P30ghwM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=uye3P30ghwM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "بث مباشر من قِبل YUOSEF JO",
           "subtitle": "جديد يوسف جو",
           "emoji": "",
