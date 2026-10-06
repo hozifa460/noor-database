@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "لحظة مميزة من البث المباشر",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3CaHjACDNmY",
+          "imageUrl": "https://i.ytimg.com/vi/3CaHjACDNmY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3CaHjACDNmY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "فك رموز القرآن 🪐",
+          "subtitle": "جديد يوسف جو",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9dBQgYhxoqU",
+          "imageUrl": "https://i.ytimg.com/vi/9dBQgYhxoqU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9dBQgYhxoqU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ماهي الاصولية الاسلامية؟",
           "subtitle": "جديد يوسف جو",
           "emoji": "",
@@ -103,16 +123,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=MpDxUPE5d-U",
           "imageUrl": "https://i.ytimg.com/vi/MpDxUPE5d-U/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=MpDxUPE5d-U",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "فك رموز القرآن 🪐",
-          "subtitle": "جديد يوسف جو",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9dBQgYhxoqU",
-          "imageUrl": "https://i.ytimg.com/vi/9dBQgYhxoqU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9dBQgYhxoqU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
