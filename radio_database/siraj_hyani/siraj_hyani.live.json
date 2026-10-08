@@ -47,22 +47,22 @@
           "mediaType": "both"
         },
         {
-          "title": "بث مباشر للاجابة عن اسئلتكم",
-          "subtitle": "جديد سراج حياني",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9VClu3rh1GE",
-          "imageUrl": "https://i.ytimg.com/vi/9VClu3rh1GE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9VClu3rh1GE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "مناظرة سراج حياني وحسن عيسى عن اثبات النبوة",
           "subtitle": "جديد سراج حياني",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=_FRrNKI7suQ",
           "imageUrl": "https://i.ytimg.com/vi/_FRrNKI7suQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=_FRrNKI7suQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بث مباشر للاجابة عن اسئلتكم",
+          "subtitle": "جديد سراج حياني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9VClu3rh1GE",
+          "imageUrl": "https://i.ytimg.com/vi/9VClu3rh1GE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9VClu3rh1GE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
