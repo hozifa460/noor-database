@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "هل الأغاني بتقتصر على أغاني فقط ؟!",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=x_Ypn_-WYSw",
+          "imageUrl": "https://i.ytimg.com/vi/x_Ypn_-WYSw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=x_Ypn_-WYSw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما وراء الأغانى الشعبية !",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
