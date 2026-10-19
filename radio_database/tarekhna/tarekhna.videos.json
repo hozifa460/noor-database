@@ -17,16 +17,6 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "من الحبشة إلى بيت الخلافة.. أسماء بنت عميس | الوفاء بأسماء النساء | الحلقة 26",
-          "subtitle": "جديد تاريخنا",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=DgpbjuZwvTY",
-          "imageUrl": "https://i.ytimg.com/vi/DgpbjuZwvTY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=DgpbjuZwvTY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "كيف بنى القرآن المكي الإنسان ورسّخ التوحيد؟ | الرجل الأعظم | الحلقة 15",
           "subtitle": "جديد تاريخنا",
           "emoji": "",
@@ -73,6 +63,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=hmfXDdpXfy4",
           "imageUrl": "https://i.ytimg.com/vi/hmfXDdpXfy4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=hmfXDdpXfy4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من الحبشة إلى بيت الخلافة.. أسماء بنت عميس | الوفاء بأسماء النساء | الحلقة 26",
+          "subtitle": "جديد تاريخنا",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=DgpbjuZwvTY",
+          "imageUrl": "https://i.ytimg.com/vi/DgpbjuZwvTY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=DgpbjuZwvTY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
