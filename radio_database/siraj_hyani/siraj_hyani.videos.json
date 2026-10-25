@@ -87,16 +87,6 @@
           "mediaType": "both"
         },
         {
-          "title": "توضيح حول المناظرة",
-          "subtitle": "جديد سراج حياني",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=7bJeTyz2jqg",
-          "imageUrl": "https://i.ytimg.com/vi/7bJeTyz2jqg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=7bJeTyz2jqg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "شبهات الملحدين على الإسلام!",
           "subtitle": "جديد سراج حياني",
           "emoji": "",
@@ -133,6 +123,26 @@
           "audioUrl": "https://www.youtube.com/watch?v=_tRT-Uv2leM",
           "imageUrl": "https://i.ytimg.com/vi/_tRT-Uv2leM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=_tRT-Uv2leM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أفي رسول الله شك؟",
+          "subtitle": "جديد سراج حياني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=FPZ90ALpcRU",
+          "imageUrl": "https://i.ytimg.com/vi/FPZ90ALpcRU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FPZ90ALpcRU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "توضيح حول المناظرة",
+          "subtitle": "جديد سراج حياني",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=7bJeTyz2jqg",
+          "imageUrl": "https://i.ytimg.com/vi/7bJeTyz2jqg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7bJeTyz2jqg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
