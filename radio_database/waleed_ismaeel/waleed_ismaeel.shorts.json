@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "قسوة القلب",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=YPdcCZkrLFM",
+          "imageUrl": "https://i.ytimg.com/vi/YPdcCZkrLFM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YPdcCZkrLFM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أسباب التفكك الأسري",
+          "subtitle": "جديد الشيخ وليد اسماعيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PxI0luNwAv0",
+          "imageUrl": "https://i.ytimg.com/vi/PxI0luNwAv0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PxI0luNwAv0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "سعيكم هباء منثورا",
           "subtitle": "جديد الشيخ وليد اسماعيل",
           "emoji": "",
